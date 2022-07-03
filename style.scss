@@ -1,0 +1,14 @@
+$primary_color: #cd6799;
+
+body {
+  background-color: #ccc;
+  height: 100vh;
+}
+
+.nav-link {
+  color: $primary_color;
+}
+
+.btn-outline-success {
+  background-color: $primary_color;
+}
